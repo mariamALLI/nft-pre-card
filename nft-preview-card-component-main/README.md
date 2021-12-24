@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Netlify](https://nft-pre-card.netlify.app/)
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/mariamALLI/nft-pre-card.git)
+- Live Site URL: [Netlify](https://nft-pre-card.netlify.app/)
 
 ## My process
 Created a main container which nested all other tags and element used in creating the design.
